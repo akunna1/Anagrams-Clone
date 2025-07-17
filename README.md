@@ -1,6 +1,6 @@
 # Game Pigeon's 🐦 Anagrams Clone 
 
-A Python-based clone of the popular Game Pigeon's Anagrams game. The game challenges players to create valid English words from a random set of 6 or 7 letters within a 1-minute timer. It uses a public dictionary API to validate word entries and keeps track of the score based on word lengths.
+A Python-based clone of the popular Game Pigeon's Anagrams game. The game challenges players to create valid English words from a random set of 6 or 7 letters within a 1-minute timer. It uses a public dictionary API to validate word entries and keeps track of the score based on word lengths..
 
 ---
 
